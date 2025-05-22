@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '@/components/pages/Home.vue'
-import AboutMe from '@/components/pages/AboutMe.vue'
+import AboutMe from '@/components/pages/Aboutme.vue'
 import Projects from '@/components/pages/Projects.vue'
 import AdminPanel from '@/components/pages/AdminPanel.vue'
 import { isLoggedIn } from '@/utils/auth.js'
