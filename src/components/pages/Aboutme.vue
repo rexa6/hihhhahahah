@@ -44,7 +44,7 @@ import Footer from '../layout/Footer.vue'
       <ul>
         <li>🪬 Server setup and deployment</li>
         <li>🗃 Bug fixing and troubleshooting</li>
-        <li>📍 API integrations / AI integrations</li>
+        <li>📍 API integrations / AI integrations.</li>
       </ul>
     </section>
 
